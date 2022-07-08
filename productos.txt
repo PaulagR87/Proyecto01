@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2,
+    "timestamp": "7/7 - 17:9:55",
+    "nombre": "Caculadora",
+    "descripcion": "Calculadora Cientifica CASIO",
+    "codigo": 2,
+    "thumbail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png",
+    "precio": 234.56,
+    "stock": 3
+  },
+  {
+    "id": 3,
+    "timestamp": "7/7 - 15:30:47",
+    "nombre": "Globo Terraqueo",
+    "descripcion": "Globo terraqueo 30 cm geo-politico",
+    "codigo": "3",
+    "thumbail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
+    "precio": "345.67",
+    "stock": "10"
+  }
+]
